@@ -6,5 +6,8 @@ body{
 }
 
 *{
-	border: solid;
+	/*border: solid;*/
 }
+
+
+h2{ color: red; }
